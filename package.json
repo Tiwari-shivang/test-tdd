@@ -10,7 +10,8 @@
     "test": "vitest",
     "preview": "vite preview",
     "test:run": "vitest run",
-    "test:coverage": "vitest run --coverage"
+    "test:coverage": "vitest run --coverage",
+    "deploy": "gh-pages -d dist"
   },
   "license": "MIT",
   "author": "Incubyte",
